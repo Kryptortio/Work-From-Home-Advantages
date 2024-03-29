@@ -58,13 +58,17 @@ const index = [
 	{id:046,title:'Access to your own private toilet',tags:['ben','health']},
 	{id:047,title:'Possible to work outside in the fresh air, summer cottage etc',tags:['ben','health','prod']},
 	{id:048,title:'Possible to keep an eye on the home to avoid fire, burglary, leaks etc',tags:['ben']},
-	{id:049,title:'Easy to take a nap over your lunch break',tags:['ben','health','prod']},
+	{id:049,title:'Easy to take a nap or a shower over your lunch break to make you more refreshed and ready for more work',tags:['ben','health','prod']},
 	{id:050,title:'Help the community by reducing the traffic load',tags:['promo']},
 	{id:051,title:'Easier for employees to be punctual when they just need to turn on the computer to be ready',tags:['prod','ben']},
 	{id:052,title:'Encouraging employees to learn new digital collaboration technologies that can boost productivity both onsite and from home',tags:['prod','ben']},
 	{id:053,title:'Opportunity for savings on equipment if the employee has his own equipment at home',tags:['save','env']},
 	{id:054,title:'Reduced cost of transport damage to portable equipment ',tags:['save','env']},
 	{id:055,title:'Easier to keep notes and dubblechecking details quickly when you have meetings from your workstation',tags:['prod']},
+	{id:056,title:'Helpfull in situations where a pet or a loved one is having a hard time being alone during the day',tags:['health','ben']},
+	{id:057,title:'Giving employees more time lets them take more better care of them self, improving health and increasing productivity',tags:['health','ben','prod']},
+	{id:058,title:'When you have an open office that might not work well for everyone, allowing work from home at least part of the time counteract those negative effects',tags:['prod']},
+	{id:059,title:'Easy access to medical devices, medecine etc',tags:['prod','health','ben']},
 ];
 
 const texts = {

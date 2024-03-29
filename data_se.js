@@ -58,13 +58,17 @@ const index = [
 	{id:046,title:'Tillgång till sin egna privata toalett',tags:['ben','health']},
 	{id:047,title:'Möjligt att jobba ute i friska luften, sommarstuga etc',tags:['ben','health','prod']},
 	{id:048,title:'Möjligt att hålla koll på hemmet för att undvika brand, inbrott, läckor etc',tags:['ben']},
-	{id:049,title:'Enkelt att ta en tupplur över lunchrasten',tags:['ben','health','prod']},
+	{id:049,title:'Enkelt att ta en tupplur eller en dush över lunchrasten för att känna sig pigg och uppfräschad',tags:['ben','health','prod']},
 	{id:050,title:'Hjälp samhället att avlasta belastningen på vägarna',tags:['promo']},
 	{id:051,title:'Lättare för anställda att vara punktliga när det bara är att trycka igång datorn för att vara redo',tags:['prod','ben']},
 	{id:052,title:'Uppmuntrar anställda till att lära sig ny digital teknologi för samarbete som kan öka produktivitet både på plats och hemifrån',tags:['prod','ben']},
 	{id:053,title:'Möjlighet till besparingar på utrustning om den anställde har egen utrustning hemma',tags:['save','env']},
 	{id:054,title:'Minskad kostnad för transportskador på portabel utrustning',tags:['save','env']},
 	{id:055,title:'Lättare att föra antecknignar och dubbelkolla uppgifter när du tar möten vid din arbetsstation',tags:['prod']},
+	{id:056,title:'Kan hjälpa i sutuationer då husdjur eller familjemedlemmar har svårt för att vara ensamma under dagen',tags:['health','ben']},
+	{id:057,title:'När man ger anställda mer tid kan de ta bättre hand om sin hälsa vilket så klart leder till högre produktivitet',tags:['health','prod']},
+	{id:058,title:'Öppna kontorslandskap är inte det bästa för alla men om man åtmindstånde till en viss del tillåter hemarbete så moteverkar detta de negativa effekterna',tags:['prod']},
+	{id:059,title:'Lätt åtkomst till medecin och medicinsk utrustning etc',tags:['prod','health','ben']},
 ];
 
 const texts = {
